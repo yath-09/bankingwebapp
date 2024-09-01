@@ -105,7 +105,7 @@
   }
 
   /* Home */
-  .home {
+  /* .home {
     @apply no-scrollbar flex w-full flex-row max-xl:max-h-screen max-xl:overflow-y-scroll;
   }
 
@@ -115,9 +115,9 @@
 
   .home-header {
     @apply flex flex-col justify-between gap-8;
-  }
+  } */
 
-  .total-balance {
+  /* .total-balance {
     @apply flex w-full items-center gap-4 rounded-xl border border-gray-200 p-4 shadow-chart sm:gap-6 sm:p-6;
   }
 
@@ -127,7 +127,7 @@
 
   .total-balance-label {
     @apply text-14 font-medium text-gray-600;
-  }
+  } */
 
   .total-balance-amount {
     @apply text-24 lg:text-30 flex-1 font-semibold text-gray-900;
